@@ -1,0 +1,43 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    margin: 10px;
+    font-family: cursive;
+    font-size: 5rem;
+    color: darkgoldenrod;
+    text-shadow: 2px 0 black;
+    text-align: center;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+  
+.dice {
+    text-align: center;
+    display: inline-block;
+  
+}
+
+p {
+    font-size: 2rem;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  
+img {
+    width: 80%;
+}
+  
+button{
+    padding: 15px;
+    color: black;
+    margin-top: 20px;
+    font-size: 2rem;
+    border-radius: 10px;
+
+}
+  
